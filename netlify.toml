@@ -1,0 +1,14 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NODE_VERSION = "24"
+  NEXT_PUBLIC_SANITY_PROJECT_ID = "i2tdfchw"
+  NEXT_PUBLIC_SANITY_DATASET = "production"
+  CONTENT_MODE = "sanity"
+
+# Netlify detects Next.js and installs its current adapter automatically.
+# next.config.ts compiles the nonsecret CMS settings above into the build so
+# serverless rendering does not depend on TOML variables at runtime.
+# Never put Sanity API tokens here. See docs/NETLIFY-SETUP.md for draft preview.

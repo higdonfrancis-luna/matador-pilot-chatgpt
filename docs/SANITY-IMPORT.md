@@ -1,6 +1,6 @@
 # Import the pilot through GitHub
 
-The existing Matador Pilot project is `i2tdfchw`. The user confirmed that its `production` dataset exists and is public. No remote import has been run yet.
+The existing Matador Pilot project is `i2tdfchw`. Its `production` dataset exists and is public. The initial import succeeded on October 7, 2026 in [GitHub Actions run 37576230977](https://github.com/higdonfrancis-luna/matador-pilot-chatgpt/actions/runs/37576230977). All 82 published pilot documents and their reference targets were also verified directly through Sanity's public API. The instructions below are retained for future imports; the initial import does not need to be repeated.
 
 ## Add the import credential
 

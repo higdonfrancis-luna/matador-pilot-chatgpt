@@ -4,7 +4,7 @@ A Sanity-powered homepage pilot for comparison with Claude’s Storyblok impleme
 
 ## Current state
 
-The code, schema and import are ready. Connecting the existing **Matador Pilot** project requires its project ID, a dataset, and credentials supplied in environment settings. No Sanity content has been imported remotely yet. This repository contains only public website content; raw WordPress exports and private form routing are excluded.
+The code and schemas are ready, and all **82 documents have been imported and verified** in the existing public Sanity project `i2tdfchw`, dataset `production` ([GitHub import run 37576230977](https://github.com/higdonfrancis-luna/matador-pilot-chatgpt/actions/runs/37576230977)). Published content is readable without a token. Hosting and an authenticated draft-preview round trip remain to be completed. This repository contains only public website content; raw WordPress exports and private form routing are excluded.
 
 - `/`: homepage, server-rendered with Next.js. In `CONTENT_MODE=fixture`, it clearly identifies itself as an unconnected content preview.
 - `/studio`: embedded Sanity Studio with Homepage, Testimonials, Member videos, Case studies, Resources and Logos.
@@ -14,6 +14,8 @@ The code, schema and import are ready. Connecting the existing **Matador Pilot**
 - Forms validate locally and never send an inquiry. Other page links open the current Matador website.
 
 ## Connect the project Adam already created
+
+The initial import is complete. To run the imported content locally, set the project ID to `i2tdfchw`, dataset to `production`, and `CONTENT_MODE=sanity` in `.env.local`. No read token is needed for published content. The following steps document setup and repeatable imports; do not reset the imported documents merely to deploy the site.
 
 1. In Sanity onboarding, choose **Next.js**, **React**, and **TypeScript**. Continue with the existing Matador Pilot project; do not create a second project.
 2. Find its project ID and dataset in the project settings. If there is no dataset, create `production`. The current seed is exclusively public website content. Choose the dataset visibility appropriate to the pilot; a private dataset requires a Viewer token for published reads as well as drafts.
@@ -62,9 +64,11 @@ The fixture mode works without Sanity credentials. It exists to review the imple
 
 ## Hosting
 
-The repository is a standard Next.js app with an embedded Studio. Deploy it to a host that supports Next.js server rendering and configure the environment variables there. Netlify or Vercel can connect to this GitHub repo. Static file upload is insufficient for the Studio preview/API routes.
+The repository is prepared for a Git-connected Netlify deployment. `netlify.toml` sets Node 24, `npm run build`, and the `.next` publish directory. Netlify's Next.js adapter handles the server-rendered page, embedded Studio and API routes. Static file upload is insufficient. Follow [Netlify setup](docs/NETLIFY-SETUP.md).
 
-No domain, production WordPress setting, hosting account or live lead routing has been changed by this pilot. Hosting and a successful cloud content round-trip remain to be completed after project connection.
+The Netlify build defaults to the verified public Sanity dataset. `next.config.ts` compiles only nonsecret CMS settings and the deployment origin into that build, because variables from `netlify.toml` are not available directly in serverless Functions. API tokens are never compiled into the application. Local development still defaults to fixture mode unless explicitly changed.
+
+No domain, production WordPress setting or live lead routing has been changed by this pilot. Hosting verification and the authenticated draft-preview round trip remain deployment tasks.
 
 ## Pilot scope and comparison
 
