@@ -1,0 +1,49 @@
+name: Import Matador content into Sanity
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: matador-sanity-production-import
+  cancel-in-progress: false
+
+jobs:
+  import:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      NEXT_PUBLIC_SANITY_PROJECT_ID: i2tdfchw
+      NEXT_PUBLIC_SANITY_DATASET: production
+    steps:
+      - name: Check out the pilot
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Set up Node.js
+        uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4
+        with:
+          node-version: '24'
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Validate the prepared content
+        run: npm run content:import
+      - name: Import missing documents and verify them
+        env:
+          SANITY_API_WRITE_TOKEN: ${{ secrets.SANITY_API_WRITE_TOKEN }}
+        run: |
+          if [ -z "$SANITY_API_WRITE_TOKEN" ]; then
+            echo "::error::Add the SANITY_API_WRITE_TOKEN repository secret before running this import."
+            exit 1
+          fi
+          npm run content:import -- --write
+      - name: Verify published content without a token
+        run: npm run content:verify
+      - name: Record the result
+        run: |
+          echo '## Sanity import complete' >> "$GITHUB_STEP_SUMMARY"
+          echo 'Verified the 82 published pilot documents in i2tdfchw/production. Existing editor changes were preserved.' >> "$GITHUB_STEP_SUMMARY"
+          echo 'The website still needs its hosting environment connected to this dataset. Media continues to use the original website URLs.' >> "$GITHUB_STEP_SUMMARY"
