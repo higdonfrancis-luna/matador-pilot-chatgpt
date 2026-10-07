@@ -1,0 +1,38 @@
+{
+  "name": "matador-pilot-chatgpt",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 0.0.0.0 --port 4173",
+    "build": "next build",
+    "start": "next start --hostname 0.0.0.0 --port 4173",
+    "typecheck": "tsc --noEmit",
+    "test": "node --import tsx --test tests/*.test.ts",
+    "content:import": "node --env-file-if-exists=.env.local scripts/import-content.mjs",
+    "content:verify": "node --env-file-if-exists=.env.local scripts/verify-content.mjs"
+  },
+  "dependencies": {
+    "next": "16.4.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "next-sanity": "13.3.4",
+    "sanity": "6.18.0",
+    "@sanity/client": "8.9.0",
+    "styled-components": "^6.1.19",
+    "cheerio": "^1.1.2",
+    "@portabletext/to-html": "^4.0.0",
+    "@sanity/image-url": "^2.0.0",
+    "server-only": "^0.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "tsx": "^4.20.0"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}

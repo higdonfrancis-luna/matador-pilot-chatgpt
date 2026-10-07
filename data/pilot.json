@@ -1,0 +1,2891 @@
+[
+  {
+    "_id": "homePage",
+    "_type": "homePage",
+    "title": "Matador Solutions Homepage",
+    "heroTitle": "New Cases, Delivered.",
+    "heroBody": [
+      {
+        "_type": "block",
+        "_key": "p0",
+        "style": "normal",
+        "markDefs": [],
+        "children": [
+          {
+            "_type": "span",
+            "_key": "s0",
+            "text": "Matador is the premier choice for legal marketing. We have generated over $1 Billion in case value for law firms through Google, ChatGPT, and Perplexity. See the proof and claim your free growth plan today.",
+            "marks": []
+          }
+        ]
+      }
+    ],
+    "seoTitle": "Legal SEO Marketing Services | Matador Solutions",
+    "seoDescription": "Matador is the premier choice for legal marketing. We have generated over $1 Billion in case value for law firms through Google, ChatGPT, and Perplexity. See the proof and claim your free growth plan today.",
+    "sections": [
+      {
+        "_type": "homeSection",
+        "_key": "section-12213f0",
+        "title": "Desktop header",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "34bb8a2-richText-1",
+            "label": "Matador featured as one of Clio’s best legal marketing agencies! Click to read more.",
+            "key": "34bb8a2-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [
+                  {
+                    "_type": "link",
+                    "_key": "link0",
+                    "href": "https://www.clio.com/blog/best-legal-marketing-companies/"
+                  }
+                ],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Matador featured as one of Clio’s best legal marketing agencies! ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "Click",
+                    "marks": [
+                      "link0"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": " to read more.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "af4a488-link-1",
+            "label": "Let’s talk",
+            "key": "af4a488-link-1",
+            "kind": "link",
+            "text": "Let’s talk",
+            "href": "#preview-contact"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "34bb8a2-richText-2",
+            "label": "Matador featured as one of Clio’s best legal marketing agencies! Click to read more.",
+            "key": "34bb8a2-richText-2",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [
+                  {
+                    "_type": "link",
+                    "_key": "link0",
+                    "href": "https://www.clio.com/blog/best-legal-marketing-companies/"
+                  }
+                ],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Matador featured as one of Clio’s best legal marketing agencies! ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "Click",
+                    "marks": [
+                      "link0"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": " to read more.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "af4a488-link-2",
+            "label": "Let’s talk",
+            "key": "af4a488-link-2",
+            "kind": "link",
+            "text": "Let’s talk",
+            "href": "#preview-contact"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-842aeea",
+        "title": "Mobile header",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "9696aaa-richText-1",
+            "label": "Matador featured as one of Clio’s best legal marketing agencies! Click to read more.",
+            "key": "9696aaa-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [
+                  {
+                    "_type": "link",
+                    "_key": "link0",
+                    "href": "https://www.clio.com/blog/best-legal-marketing-companies/"
+                  }
+                ],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Matador featured as one of Clio’s best legal marketing agencies! ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "Click",
+                    "marks": [
+                      "link0"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": " to read more.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "158c32f-link-1",
+            "label": "Get a Free Audit",
+            "key": "158c32f-link-1",
+            "kind": "link",
+            "text": "Get a Free Audit",
+            "href": "#preview-contact"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-eaf14fe",
+        "title": "Featured media",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "92d6592-richText-1",
+            "label": "Our Founder Appearing On",
+            "key": "92d6592-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Our Founder Appearing On",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-a64be7c",
+        "title": "Member testimonials",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "7b477f1-text-1",
+            "label": "Member Testimonials",
+            "key": "7b477f1-text-1",
+            "kind": "text",
+            "text": "Member Testimonials"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "83b7413-text-1",
+            "label": "Real Results. Real Stories. Directly From Law Firms Like Yours.",
+            "key": "83b7413-text-1",
+            "kind": "text",
+            "text": "Real Results. Real Stories. Directly From Law Firms Like Yours."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "f7019c1-text-1",
+            "label": "take 5 Minutes and hear directly from law firms why Matador is the #1 choice for Legal marketing",
+            "key": "f7019c1-text-1",
+            "kind": "text",
+            "text": "take 5 Minutes and hear directly from law firms why Matador is the #1 choice for Legal marketing"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-a0aecab",
+        "title": "What we do",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "7250237-text-1",
+            "label": "What we do",
+            "key": "7250237-text-1",
+            "kind": "text",
+            "text": "What we do"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7cc6919-text-1",
+            "label": "Rank #1 on Google, ChatGPT, AI Overviews -- meet your clients where they are.",
+            "key": "7cc6919-text-1",
+            "kind": "text",
+            "text": "Rank #1 on Google, ChatGPT, AI Overviews -- meet your clients where they are."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "c274c2b-richText-1",
+            "label": "We are the team powering over 150 successful law firms nationwide. The digital marketing world can b",
+            "key": "c274c2b-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "We are the team powering over 150 successful law firms nationwide. The digital marketing world can be very confusing – there’s SEO (search engine optimization), paid SEM (search engine marketing), paid social, Facebook, Instagram, LinkedIn, etc. What works? What doesn’t work? With so much noise on the internet, and so many vendors offering contradictory information, it can be a daunting task to actually figure out what activities will make the phone ring. We invest thousands of hours and millions of dollars in answering that question.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "5eb029e-link-1",
+            "label": "View Testimonials Here",
+            "key": "5eb029e-link-1",
+            "kind": "link",
+            "text": "View Testimonials Here",
+            "href": "https://www.matadorsolutions.net/marketing-solutions/"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-65f974c",
+        "title": "Marketing service tabs",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "84b352d-text-1",
+            "label": "Search engine optimization",
+            "key": "84b352d-text-1",
+            "kind": "text",
+            "text": "Search engine optimization"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "84b352d-text-2",
+            "label": "Website development",
+            "key": "84b352d-text-2",
+            "kind": "text",
+            "text": "Website development"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "84b352d-text-3",
+            "label": "Local services ads (Google Screened/LSAs)",
+            "key": "84b352d-text-3",
+            "kind": "text",
+            "text": "Local services ads (Google Screened/LSAs)"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "84b352d-text-4",
+            "label": "Additional services",
+            "key": "84b352d-text-4",
+            "kind": "text",
+            "text": "Additional services"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-03b0ff8",
+        "title": "Search engine optimization",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "1841468-richText-1",
+            "label": "SEO is the backbone of every good online marketing campaign. Our SEO processes have been developed o",
+            "key": "1841468-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "SEO is the backbone of every good online marketing campaign. Our SEO processes have been developed over the last 20 years, and include a mix of the following:",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "33c588e-text-1",
+            "label": "Keyword and competitor research",
+            "key": "33c588e-text-1",
+            "kind": "text",
+            "text": "Keyword and competitor research"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "33c588e-text-2",
+            "label": "On-site valuable legal content",
+            "key": "33c588e-text-2",
+            "kind": "text",
+            "text": "On-site valuable legal content"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "33c588e-text-3",
+            "label": "Technical code optimization (title tag, headers, page speed, meta descriptions, schema markup, etc.)",
+            "key": "33c588e-text-3",
+            "kind": "text",
+            "text": "Technical code optimization (title tag, headers, page speed, meta descriptions, schema markup, etc.)"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "33c588e-text-4",
+            "label": "High-quality backlinking",
+            "key": "33c588e-text-4",
+            "kind": "text",
+            "text": "High-quality backlinking"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "918425e-text-1",
+            "label": "As a result of this process, our Members rank for some of the most competitive keywords on the inter",
+            "key": "918425e-text-1",
+            "kind": "text",
+            "text": "As a result of this process, our Members rank for some of the most competitive keywords on the internet, including “car accident lawyer Chicago, IL” (Disparti Law), “car accident lawyer Washington D.C.” (Cohen & Cohen), “estate planning lawyer Alexandria, LA” (Theus Law), and more."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "ff10fba-link-1",
+            "label": "Learn more",
+            "key": "ff10fba-link-1",
+            "kind": "link",
+            "text": "Learn more",
+            "href": "https://www.matadorsolutions.net/seo/"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "d0352fd-text-1",
+            "label": "96%",
+            "key": "d0352fd-text-1",
+            "kind": "text",
+            "text": "96%"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "0a299bb-richText-1",
+            "label": "Of people seeking legal advice use a search engine for help",
+            "key": "0a299bb-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Of people seeking legal advice use a search engine for help",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-43ca852",
+        "title": "Website development",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "7aa9968-richText-1",
+            "label": "Matador builds extremely affordable, high-quality, conversion friendly WordPress websites. Most impo",
+            "key": "7aa9968-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Matador builds extremely affordable, high-quality, conversion friendly ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "WordPress ",
+                    "marks": [
+                      "strong"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": "websites. Most importantly, unlike most providers, we make sure that you own your website, hosting, content, and code outright. Many Members come to us with a decent website that we are able to work with and apply our conversion best practices to. Here is a brief list of the conversion updates that are on every converting website:",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-1",
+            "label": "Photos of the lawyer/doctor/team on every page",
+            "key": "a5c2f94-text-1",
+            "kind": "text",
+            "text": "Photos of the lawyer/doctor/team on every page"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-2",
+            "label": "Large, prominent phone numbers",
+            "key": "a5c2f94-text-2",
+            "kind": "text",
+            "text": "Large, prominent phone numbers"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-3",
+            "label": "Contact form on every page",
+            "key": "a5c2f94-text-3",
+            "kind": "text",
+            "text": "Contact form on every page"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-4",
+            "label": "Case results/testimonials on every page",
+            "key": "a5c2f94-text-4",
+            "kind": "text",
+            "text": "Case results/testimonials on every page"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-5",
+            "label": "24/7 phone answering",
+            "key": "a5c2f94-text-5",
+            "kind": "text",
+            "text": "24/7 phone answering"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-6",
+            "label": "Video testimonials",
+            "key": "a5c2f94-text-6",
+            "kind": "text",
+            "text": "Video testimonials"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-7",
+            "label": "Mobile friendly",
+            "key": "a5c2f94-text-7",
+            "kind": "text",
+            "text": "Mobile friendly"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a5c2f94-text-8",
+            "label": "A page speed",
+            "key": "a5c2f94-text-8",
+            "kind": "text",
+            "text": "A page speed"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1628eb9-link-1",
+            "label": "Learn more",
+            "key": "1628eb9-link-1",
+            "kind": "link",
+            "text": "Learn more",
+            "href": "https://www.matadorsolutions.net/website-development/"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "0b27b48-text-1",
+            "label": "75%",
+            "key": "0b27b48-text-1",
+            "kind": "text",
+            "text": "75%"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "272f93c-richText-1",
+            "label": "Of users judge a company’s credibility based on its website design",
+            "key": "272f93c-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Of users judge a company’s credibility based on its website design",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-fc32797",
+        "title": "Local Services Ads",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "8c1aa6b-richText-1",
+            "label": "Local services Ads, also known as “Google Screened” or “LSAs” for short, are a valuable tool in your",
+            "key": "8c1aa6b-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Local services Ads, also known as “Google Screened” or “LSAs” for short, are a valuable tool in your case acquisition toolbox. We have analyzed millions of dollars in spend in order to develop a system for new case acquisition works across the country.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "fd1f9f7-richText-1",
+            "label": "For example, the average personal injury firm generates new LSA cases well under $1250 per case. Whe",
+            "key": "fd1f9f7-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "For example, the average personal injury firm generates new LSA cases well under $1250 per case. When you partner with us for your LSAs, we build you an easy to use tracking sheet which will easily help you ascertain this data. Click here for a sample tracking sheet you can make a copy of for your firm. Below you can find a screenshot of real results that we are producing for a personal injury law firm:",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "61235c0-link-1",
+            "label": "Learn more",
+            "key": "61235c0-link-1",
+            "kind": "link",
+            "text": "Learn more",
+            "href": "https://www.matadorsolutions.net/local-services-ads/"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "b689dbf-text-1",
+            "label": "18.5%",
+            "key": "b689dbf-text-1",
+            "kind": "text",
+            "text": "18.5%"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7910dc4-richText-1",
+            "label": "Average LSA lead conversion rate",
+            "key": "7910dc4-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Average LSA lead conversion rate",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-d1302b0",
+        "title": "Additional services",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "7812d61e-richText-1",
+            "label": "We strongly believe that the foundation of internet marketing comes from high-quality SEO. In other ",
+            "key": "7812d61e-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "We strongly believe that the foundation of internet marketing comes from high-quality SEO. In other words, ranking for keywords that ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "actually ",
+                    "marks": [
+                      "em"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": "generate revenue. LSAs also provide a good case acquisition channel. Once these channels are established, we can assist you in the following areas:",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1bf1704e-text-1",
+            "label": "Social Media",
+            "key": "1bf1704e-text-1",
+            "kind": "text",
+            "text": "Social Media"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1bf1704e-text-2",
+            "label": "Podcasting",
+            "key": "1bf1704e-text-2",
+            "kind": "text",
+            "text": "Podcasting"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1bf1704e-text-3",
+            "label": "Intake scripting",
+            "key": "1bf1704e-text-3",
+            "kind": "text",
+            "text": "Intake scripting"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1bf1704e-text-4",
+            "label": "Financial Coaching",
+            "key": "1bf1704e-text-4",
+            "kind": "text",
+            "text": "Financial Coaching"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1bf1704e-text-5",
+            "label": "Legal Content",
+            "key": "1bf1704e-text-5",
+            "kind": "text",
+            "text": "Legal Content"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "3fd229b2-text-1",
+            "label": "150+",
+            "key": "3fd229b2-text-1",
+            "kind": "text",
+            "text": "150+"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "9eec023-richText-1",
+            "label": "Law firms trust Matador as their internet marketing partner",
+            "key": "9eec023-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Law firms trust Matador as their internet marketing partner",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-e49e490",
+        "title": "About Matador heading",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "f6962dd-text-1",
+            "label": "about Matador",
+            "key": "f6962dd-text-1",
+            "kind": "text",
+            "text": "about Matador"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-baf7056",
+        "title": "About Matador",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "15c6de0-text-1",
+            "label": "What should you know about working with Matador?",
+            "key": "15c6de0-text-1",
+            "kind": "text",
+            "text": "What should you know about working with Matador?"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "8b8b370-richText-1",
+            "label": "Matador is unlike every other marketing vendor you have ever worked with. Our sole focus is the art ",
+            "key": "8b8b370-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Matador is unlike every other marketing vendor you have ever worked with. Our sole focus is the art and science of new case/patient acquisition – without any of the fluff. We don’t provide fancy charts, graphs, or anything of that sort. Our reporting is based on new quality leads to your practice.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "1e4e551-link-1",
+            "label": "View Testimonials Here",
+            "key": "1e4e551-link-1",
+            "kind": "link",
+            "text": "View Testimonials Here",
+            "href": "https://www.matadorsolutions.net/about-us/"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-11068e8",
+        "title": "Co-op overview",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "0745d96-richText-1",
+            "label": "Founded out of a leading personal injury law firm, but working with all practice areas.",
+            "key": "0745d96-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Founded out of a leading personal injury law firm, but working with all practice areas.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "2c2ba3f-richText-1",
+            "label": "150+ Members, 100s of millions of annual revenue.",
+            "key": "2c2ba3f-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "150+ Members, 100s of millions of annual revenue.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "5b4f9d4-richText-1",
+            "label": "No long term agreements.",
+            "key": "5b4f9d4-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "No long term agreements.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "28bcabf-richText-1",
+            "label": "Team of 30+ marketers, attorneys, writers, and developers working to grow your firm.",
+            "key": "28bcabf-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Team of 30+ marketers, attorneys, writers, and developers working to grow your firm.",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-9d3ae26",
+        "title": "Case studies and marketing audit",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "e76710b-text-1",
+            "label": "150+ Members Nationwide",
+            "key": "e76710b-text-1",
+            "kind": "text",
+            "text": "150+ Members Nationwide"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "32c1220-text-1",
+            "label": "Case Studies",
+            "key": "32c1220-text-1",
+            "kind": "text",
+            "text": "Case Studies"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7e6c6b0-link-1",
+            "label": "view all",
+            "key": "7e6c6b0-link-1",
+            "kind": "link",
+            "text": "view all",
+            "href": "https://www.matadorsolutions.net/case-studies/"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "aeecef0-text-1",
+            "label": "Get your free marketing audit",
+            "key": "aeecef0-text-1",
+            "kind": "text",
+            "text": "Get your free marketing audit"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "f9e9ffd-text-1",
+            "label": "30-min strategy call",
+            "key": "f9e9ffd-text-1",
+            "kind": "text",
+            "text": "30-min strategy call"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "64064d1-text-1",
+            "label": "In-depth audit",
+            "key": "64064d1-text-1",
+            "kind": "text",
+            "text": "In-depth audit"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "0dfa171-text-1",
+            "label": "Growth Roadmap",
+            "key": "0dfa171-text-1",
+            "kind": "text",
+            "text": "Growth Roadmap"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-c47cba5",
+        "title": "Why Matador heading",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "03e910e-text-1",
+            "label": "Why Matador",
+            "key": "03e910e-text-1",
+            "kind": "text",
+            "text": "Why Matador"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "39c2871-text-1",
+            "label": "What makes Matador different than every other marketing provider?",
+            "key": "39c2871-text-1",
+            "kind": "text",
+            "text": "What makes Matador different than every other marketing provider?"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-578b84d",
+        "title": "Co-op benefits",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "87841f5-text-1",
+            "label": "Intellectual property",
+            "key": "87841f5-text-1",
+            "kind": "text",
+            "text": "Intellectual property"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "87841f5-text-2",
+            "label": "Members retain 100% of the intellectual property generated by the MC for them. Unlike vendors like F",
+            "key": "87841f5-text-2",
+            "kind": "text",
+            "text": "Members retain 100% of the intellectual property generated by the MC for them. Unlike vendors like FindLaw, Justia, and Scorpion, you own your website, content, and all accounts (such as call tracking, call answering, etc.) created on your behalf."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a344ea9-text-1",
+            "label": "Demonstrable Results",
+            "key": "a344ea9-text-1",
+            "kind": "text",
+            "text": "Demonstrable Results"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a344ea9-text-2",
+            "label": "We compete in the most competitive markets in the country. Each month, we sit down with you to revie",
+            "key": "a344ea9-text-2",
+            "kind": "text",
+            "text": "We compete in the most competitive markets in the country. Each month, we sit down with you to review the most important aspects of your marketing program: (1) rankings, (2) phone calls/new contacts, and (3) new cases."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "2eb65d8-text-1",
+            "label": "TurnKey",
+            "key": "2eb65d8-text-1",
+            "kind": "text",
+            "text": "TurnKey"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "2eb65d8-text-2",
+            "label": "Matador handles all of the work to get sites to move up in rankings. Members gain information about ",
+            "key": "2eb65d8-text-2",
+            "kind": "text",
+            "text": "Matador handles all of the work to get sites to move up in rankings. Members gain information about the latest changes in the search engine algorithms, but they are not required to personally do any of the work. All work is done in-house, in the United States."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7e25a48-text-1",
+            "label": "Referrals",
+            "key": "7e25a48-text-1",
+            "kind": "text",
+            "text": "Referrals"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7e25a48-text-2",
+            "label": "Because of the size of the Co-Op, we are able to facilitate referrals with different Member firms ac",
+            "key": "7e25a48-text-2",
+            "kind": "text",
+            "text": "Because of the size of the Co-Op, we are able to facilitate referrals with different Member firms across the country."
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-1509ce9",
+        "title": "Membership benefits",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "a49d11e-text-1",
+            "label": "Member discounts",
+            "key": "a49d11e-text-1",
+            "kind": "text",
+            "text": "Member discounts"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "a49d11e-text-2",
+            "label": "It is important that each Member have access to the best ancillary services needed to operate your f",
+            "key": "a49d11e-text-2",
+            "kind": "text",
+            "text": "It is important that each Member have access to the best ancillary services needed to operate your firm. This includes call tracking, call answering, intake software, review generation, and more. More often than not, we have spent time to vet a high-quality service and secured a discount on behalf of our Members."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "b869bcb-text-1",
+            "label": "unparalleled data",
+            "key": "b869bcb-text-1",
+            "kind": "text",
+            "text": "unparalleled data"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "b869bcb-text-2",
+            "label": "We are in a unique position to understand which keywords and methods actually produce revenue. Our k",
+            "key": "b869bcb-text-2",
+            "kind": "text",
+            "text": "We are in a unique position to understand which keywords and methods actually produce revenue. Our keyword recommendations are a mix of spending time to understand your practice, weighed against the data we have amassed over the years."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "e963fde-text-1",
+            "label": "No long term agreements",
+            "key": "e963fde-text-1",
+            "kind": "text",
+            "text": "No long term agreements"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "e963fde-text-2",
+            "label": "Unlike a traditional vendor, the Co-Op does not require, or offer, long-term agreements. While the S",
+            "key": "e963fde-text-2",
+            "kind": "text",
+            "text": "Unlike a traditional vendor, the Co-Op does not require, or offer, long-term agreements. While the SEO game often takes between 6 and 12 months to yield results, we engage in 60-day bilateral agreements. In other words, we make it worth your while every single month."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "4bdc883-text-1",
+            "label": "Not All Sites Are eligible",
+            "key": "4bdc883-text-1",
+            "kind": "text",
+            "text": "Not All Sites Are eligible"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "4bdc883-text-2",
+            "label": "Unfortunately, not all sites can be accepted into the Co-Op. Sites must meet certain criteria to be ",
+            "key": "4bdc883-text-2",
+            "kind": "text",
+            "text": "Unfortunately, not all sites can be accepted into the Co-Op. Sites must meet certain criteria to be considered. These include the strength of the site, the quality of the backlinks to the site, the size of the market, and more. If you are unsure if you are a fit, we urge you to get in touch regardless and will at least point you in the right direction."
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-7afc065",
+        "title": "Firm experiences heading",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "a8d9450-text-1",
+            "label": "What are firms saying about their experience with Matador?",
+            "key": "a8d9450-text-1",
+            "kind": "text",
+            "text": "What are firms saying about their experience with Matador?"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-c9d65e0",
+        "title": "Member return on investment",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "9650a3a-text-1",
+            "label": "4-12x",
+            "key": "9650a3a-text-1",
+            "kind": "text",
+            "text": "4-12x"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "146e37b-richText-1",
+            "label": "Average Member ROI",
+            "key": "146e37b-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Average Member ROI",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-999eb9f",
+        "title": "The team",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "9cc359c-text-1",
+            "label": "The team",
+            "key": "9cc359c-text-1",
+            "kind": "text",
+            "text": "The team"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "3b03e07-text-1",
+            "label": "Team of over 30 experts",
+            "key": "3b03e07-text-1",
+            "kind": "text",
+            "text": "Team of over 30 experts"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "7bec3f6-richText-1",
+            "label": "Our team consists of marketers, attorneys, writers, and developers working to grow your firm. Some o",
+            "key": "7bec3f6-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Our team consists of marketers, attorneys, writers, and developers working to grow your firm. Some of our people come from firms such as Morgan and Morgan, others from big technology, etc. Our founder, Wayne Cohen, is one of Washington D.C.’s leading plaintiffs lawyers – the Co-Op was built around a unique understanding of the “business of law.”",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "c124a99-link-1",
+            "label": "meet the team",
+            "key": "c124a99-link-1",
+            "kind": "link",
+            "text": "meet the team",
+            "href": "https://www.matadorsolutions.net/meet-the-team/"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-c7f6217",
+        "title": "Guides and resources",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "08f39ce-text-1",
+            "label": "In The Know",
+            "key": "08f39ce-text-1",
+            "kind": "text",
+            "text": "In The Know"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "6381f57-text-1",
+            "label": "Legal Marketing Guides, Resources, & Industry Updates",
+            "key": "6381f57-text-1",
+            "kind": "text",
+            "text": "Legal Marketing Guides, Resources, & Industry Updates"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "d2b117a-link-1",
+            "label": "view more",
+            "key": "d2b117a-link-1",
+            "kind": "link",
+            "text": "view more",
+            "href": "https://www.matadorsolutions.net/marketing-solutions/"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-d5bc620",
+        "title": "Footer consultation and contact",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "6977038-richText-1",
+            "label": "Get a free consultationA consultation includes an evaluation of your marketing efforts and its effec",
+            "key": "6977038-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "h2",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Get a free consultation",
+                    "marks": []
+                  }
+                ]
+              },
+              {
+                "_type": "block",
+                "_key": "p1",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "A consultation includes an evaluation of your marketing efforts and its effectiveness. Here is what we will do:",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "aa2a18a-text-1",
+            "label": "Analyze your website performance, including where there is room for opportunity.",
+            "key": "aa2a18a-text-1",
+            "kind": "text",
+            "text": "Analyze your website performance, including where there is room for opportunity."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "49763ae-text-1",
+            "label": "Inspect your website to ensure it is user-friendly, mobile-responsive, and optimized for search engi",
+            "key": "49763ae-text-1",
+            "kind": "text",
+            "text": "Inspect your website to ensure it is user-friendly, mobile-responsive, and optimized for search engines."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "5ff3337-text-1",
+            "label": "Review your content marketing efforts, including your blog posts, social media, and email marketing.",
+            "key": "5ff3337-text-1",
+            "kind": "text",
+            "text": "Review your content marketing efforts, including your blog posts, social media, and email marketing."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "788652d-text-1",
+            "label": "Map out a growth timeline of how your firm can go from 0->1, 1->10, or 10->100.",
+            "key": "788652d-text-1",
+            "kind": "text",
+            "text": "Map out a growth timeline of how your firm can go from 0->1, 1->10, or 10->100."
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "95852b7-text-1",
+            "label": "Get your free audit",
+            "key": "95852b7-text-1",
+            "kind": "text",
+            "text": "Get your free audit"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "e537cc5-text-1",
+            "label": "Talk to a marketing expert today",
+            "key": "e537cc5-text-1",
+            "kind": "text",
+            "text": "Talk to a marketing expert today"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "d6a5ece-link-1",
+            "label": "310-774-0082",
+            "key": "d6a5ece-link-1",
+            "kind": "link",
+            "text": "310-774-0082",
+            "href": "tel:8884005050"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "10fd7bf-text-1",
+            "label": "2636 Lincoln Blvd 1st Floor, Santa Monica, CA 90405",
+            "key": "10fd7bf-text-1",
+            "kind": "text",
+            "text": "2636 Lincoln Blvd 1st Floor, Santa Monica, CA 90405"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "c3b919d-link-1",
+            "label": "info@matadorsolutions.net",
+            "key": "c3b919d-link-1",
+            "kind": "link",
+            "text": "info@matadorsolutions.net",
+            "href": "mailto:info@matadorsolutions.net"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "87e710a-link-1",
+            "label": "view on map",
+            "key": "87e710a-link-1",
+            "kind": "link",
+            "text": "view on map",
+            "href": "https://maps.app.goo.gl/DCHPHK2DxWMtiWsz8"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "d2a26ab-text-1",
+            "label": "Marketing Solutions",
+            "key": "d2a26ab-text-1",
+            "kind": "text",
+            "text": "Marketing Solutions"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "ca8271e-text-1",
+            "label": "Who We Are",
+            "key": "ca8271e-text-1",
+            "kind": "text",
+            "text": "Who We Are"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "848645c-text-1",
+            "label": "Testimonials",
+            "key": "848645c-text-1",
+            "kind": "text",
+            "text": "Testimonials"
+          },
+          {
+            "_type": "contentBlock",
+            "_key": "6794e87-text-1",
+            "label": "Practice Areas",
+            "key": "6794e87-text-1",
+            "kind": "text",
+            "text": "Practice Areas"
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-f5b4fd6",
+        "title": "Footer featured media",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "617ad17-richText-1",
+            "label": "Our Founder Appearing On",
+            "key": "617ad17-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "Our Founder Appearing On",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_type": "homeSection",
+        "_key": "section-c3bf6ac",
+        "title": "Footer copyright and policies",
+        "blocks": [
+          {
+            "_type": "contentBlock",
+            "_key": "fb7b57a-richText-1",
+            "label": "© 2026 Matador Solutions – SEO Company | Sitemap | Privacy Policy | Do Not Sell or Share My Personal",
+            "key": "fb7b57a-richText-1",
+            "kind": "richText",
+            "body": [
+              {
+                "_type": "block",
+                "_key": "p0",
+                "style": "normal",
+                "markDefs": [
+                  {
+                    "_type": "link",
+                    "_key": "link0",
+                    "href": "https://www.matadorsolutions.net/sitemap/"
+                  },
+                  {
+                    "_type": "link",
+                    "_key": "link1",
+                    "href": "https://www.matadorsolutions.net/privacy-policy/"
+                  },
+                  {
+                    "_type": "link",
+                    "_key": "link2",
+                    "href": "https://www.matadorsolutions.net/privacy-policy/#your-privacy-rights"
+                  },
+                  {
+                    "_type": "link",
+                    "_key": "link3",
+                    "href": "https://cohen-legal.net/"
+                  }
+                ],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "s0",
+                    "text": "© 2026 Matador Solutions – SEO Company | ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s1",
+                    "text": "Sitemap",
+                    "marks": [
+                      "link0"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s2",
+                    "text": "  | ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s3",
+                    "text": "Privacy Policy",
+                    "marks": [
+                      "link1"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s4",
+                    "text": " | ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s5",
+                    "text": "Do Not Sell or Share My Personal Information",
+                    "marks": [
+                      "link2"
+                    ]
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s6",
+                    "text": " | For all Legal Concerns please visit ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "span",
+                    "_key": "s7",
+                    "text": "Cohen Injury Law Group",
+                    "marks": [
+                      "link3"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "heroTestimonials": [
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988576",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988284",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988283",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988282",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988281",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988280",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988194",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988193",
+        "_key": "r7"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988076",
+        "_key": "r8"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988072",
+        "_key": "r9"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988071",
+        "_key": "r10"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988070",
+        "_key": "r11"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988068",
+        "_key": "r12"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988066",
+        "_key": "r13"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988064",
+        "_key": "r14"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988063",
+        "_key": "r15"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988062",
+        "_key": "r16"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988058",
+        "_key": "r17"
+      }
+    ],
+    "footerTestimonials": [
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988576",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988284",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988283",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988282",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988280",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988194",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988193",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988076",
+        "_key": "r7"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988072",
+        "_key": "r8"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988071",
+        "_key": "r9"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988070",
+        "_key": "r10"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988068",
+        "_key": "r11"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988066",
+        "_key": "r12"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988064",
+        "_key": "r13"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988063",
+        "_key": "r14"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988062",
+        "_key": "r15"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-wp988058",
+        "_key": "r16"
+      }
+    ],
+    "firmExperiences": [
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm300ace0",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm78c602e",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firmaefcbd6",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm3f85f40",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm82312a3",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm72ab0b9",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firmc87dfa7",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firmf862168",
+        "_key": "r7"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm4e085ef",
+        "_key": "r8"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm0aa0df7",
+        "_key": "r9"
+      },
+      {
+        "_type": "reference",
+        "_ref": "testimonial-firm3d6beaf",
+        "_key": "r10"
+      }
+    ],
+    "memberVideos": [
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp989096",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988898",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988896",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988894",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988885",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988883",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "memberVideo-wp988875",
+        "_key": "r6"
+      }
+    ],
+    "caseStudies": [
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp989121",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp988841",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp988586",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp988506",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp988483",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "caseStudy-wp987678",
+        "_key": "r5"
+      }
+    ],
+    "resources": [
+      {
+        "_type": "reference",
+        "_ref": "resource-wp989121",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp988841",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp988586",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp988506",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp988483",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp987678",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp987675",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "resource-wp987671",
+        "_key": "r7"
+      }
+    ],
+    "clientLogos": [
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987679",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987676",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987672",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987690",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987695",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987697",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987698",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987699",
+        "_key": "r7"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987700",
+        "_key": "r8"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987701",
+        "_key": "r9"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987703",
+        "_key": "r10"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987704",
+        "_key": "r11"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987705",
+        "_key": "r12"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987706",
+        "_key": "r13"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987708",
+        "_key": "r14"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987691",
+        "_key": "r15"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-client-wp987712",
+        "_key": "r16"
+      }
+    ],
+    "pressLogos": [
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987974",
+        "_key": "r0"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987965",
+        "_key": "r1"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987972",
+        "_key": "r2"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987966",
+        "_key": "r3"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987977",
+        "_key": "r4"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987975",
+        "_key": "r5"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987973",
+        "_key": "r6"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987979",
+        "_key": "r7"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987976",
+        "_key": "r8"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987970",
+        "_key": "r9"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987987",
+        "_key": "r10"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987967",
+        "_key": "r11"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987986",
+        "_key": "r12"
+      },
+      {
+        "_type": "reference",
+        "_ref": "logo-press-wp987968",
+        "_key": "r13"
+      }
+    ]
+  },
+  {
+    "_id": "testimonial-wp988576",
+    "_type": "testimonial",
+    "name": "David DiBrigida",
+    "firm": "",
+    "quote": "\"The monthly review of your marketing campaign is with a live person that is knowledgeable and ready to take as much time as needed to answer your questions and help you grow. I have seen steady progress in my marketing results and I am currently opening more files than ever before. I highly recommend Matador to any attorney!\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/DD-Symbol-with-Logotype.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/daviddibrigidaheadshot1.webp"
+  },
+  {
+    "_id": "testimonial-wp988284",
+    "_type": "testimonial",
+    "name": "Andrew Lynch",
+    "firm": "",
+    "quote": "\"Our law firm has worked with Matador for years. We consider them a part of the team and feel they are always carrying their weight. They are great.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/attorneyandrew.webp",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Andrew-Lynch_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988283",
+    "_type": "testimonial",
+    "name": "Jim Bulger",
+    "firm": "",
+    "quote": "\"Matador is fantastic. They are extremely knowledgeable about their business generally but also thoughtful about my business and attentive to our particular needs. They are responsive and helpful at all times. I cannot recommend them enough.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Seber-logo-Update-red_s.webp",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Jim-Bulger_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988282",
+    "_type": "testimonial",
+    "name": "Josh Turim",
+    "firm": "",
+    "quote": "\"I highly recommend Matador Solutions for your digital marketing needs. They have been a tremendous help in building our law firm's strong online presence.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/img-logo.webp",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Josh-Turim_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988281",
+    "_type": "testimonial",
+    "name": "Michael Mayoral",
+    "firm": "",
+    "quote": "\"Matador Solutions stands out because they truly understand the unique needs of law firms and tailor their strategies accordingly. They've become more than a service provider to us; they're a vital part of our team. The results speak for themselves. We have grown exponentially as a direct result of their efforts.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/pm-logo-blue.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Michael-Mayoral_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988280",
+    "_type": "testimonial",
+    "name": "Brandy Austin",
+    "firm": "",
+    "quote": "\"The team at Matador has been helpful and super responsive to any issues for years. They do great work.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/cropped-logo-1.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/Brandy-Austin_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988194",
+    "_type": "testimonial",
+    "name": "Chris Patterson",
+    "firm": "",
+    "quote": "\"We are exceptionally satisfied with the service we have received from Matador. We've partnered with them for over a decade and owe a great deal of our own success to their insight and forward-thinking approach to marketing.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/pattersonbray_logo.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/chris_patterson_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988193",
+    "_type": "testimonial",
+    "name": "Thomas Hurt",
+    "firm": "",
+    "quote": "\"Matador Solutions has exceeded all expectations for what we expect from an SEO services partner. They are transparent, supportive, and highly knowledgeable with the everchanging digital marketing landscape. I highly recommend their services.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/markhurt_logo.webp",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/03/thomas_hurt_headshot.png"
+  },
+  {
+    "_id": "testimonial-wp988076",
+    "_type": "testimonial",
+    "name": "Barry P. Goldberg",
+    "firm": "",
+    "quote": "\"In a very few months, you guys moved the needle on my SEO significantly. I now show number one on more than twice as many personal injury keywords than I did before engaging you guys.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/logo-mobile-hi.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Barry.png"
+  },
+  {
+    "_id": "testimonial-wp988072",
+    "_type": "testimonial",
+    "name": "Larry Greenberg",
+    "firm": "",
+    "quote": "\"I have been extremely pleased with the results of our investment . . . I am not one to write reviews for vendors or companies that I work with, but I felt it necessary to explain how beneficial Matador has been for my business.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Screen-Shot-2022-10-02-at-3.31.01-PM.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Larry-1-390x440-1.png"
+  },
+  {
+    "_id": "testimonial-wp988071",
+    "_type": "testimonial",
+    "name": "Eli Franks",
+    "firm": "",
+    "quote": "\"Our law firm has been with Matador for years, and it’s been a refreshing experience. Matador is very transparent with the work that it does, so that we are in the loop with how our web presence is increasing.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/fkn_logo.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/ELI-A.-FRANKS-1-1-1.png"
+  },
+  {
+    "_id": "testimonial-wp988070",
+    "_type": "testimonial",
+    "name": "Bob Byrne",
+    "firm": "",
+    "quote": "\"Working with Matador has transformed my practice. The quantity and quality of new leads have increased, and I’ve learned a ton about how to run a better law firm. I recommend Matador without hesitation.\"",
+    "logoUrl": "",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/martinwren_carousel.png"
+  },
+  {
+    "_id": "testimonial-wp988068",
+    "_type": "testimonial",
+    "name": "Doug Tuttle",
+    "firm": "",
+    "quote": "\"The monthly feedback is terrific, the data is amazing and there's an accountability that we never had before.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/tuttle_carousel.jpg",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/tuttle_carousel.png"
+  },
+  {
+    "_id": "testimonial-wp988066",
+    "_type": "testimonial",
+    "name": "Joel Silverman",
+    "firm": "",
+    "quote": "\"We are in the top three of any search at any given time.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/joel_carousel.jpg",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/joel_carousel.png"
+  },
+  {
+    "_id": "testimonial-wp988064",
+    "_type": "testimonial",
+    "name": "Marty Martin",
+    "firm": "",
+    "quote": "\"Right now at this point, I'm doing better than I ever was doing. I have 4, 5, 6 leads a day. It's just crazy.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/attorneyok_carousel.jpg",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/attorneyok_carousel.png"
+  },
+  {
+    "_id": "testimonial-wp988063",
+    "_type": "testimonial",
+    "name": "Jonathan Felt",
+    "firm": "",
+    "quote": "\"Since joining the Co-Op, I've doubled my volume twice. So four times as busy as I was 2 years ago.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Screenshot-2023-10-02-at-4.15.36-PM.jpg",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Screenshot-2023-10-02-at-4.15.36-PM.png"
+  },
+  {
+    "_id": "testimonial-wp988062",
+    "_type": "testimonial",
+    "name": "Michael Loos",
+    "firm": "",
+    "quote": "\"My interaction with every single person on this team, without exception, has been exceeding my expectations.\"",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Logo-Dark.png",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/cls_carousel.png"
+  },
+  {
+    "_id": "testimonial-wp988058",
+    "_type": "testimonial",
+    "name": "Shannon Hadeed",
+    "firm": "",
+    "quote": "“We have had a massive increase in our client base and contact. I mean I had to stop taking new cases for four months.”",
+    "logoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/RH_carousel.jpg",
+    "photoUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/RH_carousel.png"
+  },
+  {
+    "_id": "testimonial-firm300ace0",
+    "_type": "testimonial",
+    "name": "Mike May",
+    "firm": "May Law, LLP",
+    "quote": "It's been so great working with Matador because they know the secret sauce, they know what to do. They know how to emphasize certain points to make sure our message gets out and to make sure the people that are looking for our types of services are able to find us and get in touch with us.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm78c602e",
+    "_type": "testimonial",
+    "name": "Bob Byrne",
+    "firm": "MartinWren, P.C.",
+    "quote": "Working with Matador has transformed my practice. The quantity and quality of new leads have increased, and I’ve learned a ton about how to run a better law firm. I recommend Matador without hesitation.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firmaefcbd6",
+    "_type": "testimonial",
+    "name": "Jonathan Felt",
+    "firm": "Felt Family Law & Mediation",
+    "quote": "Since joining the Co-Op, I've doubled my volume twice. So four times as busy as I was 2 years ago.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm3f85f40",
+    "_type": "testimonial",
+    "name": "Samantha McCarthy",
+    "firm": "McCarthy Law, LLC",
+    "quote": "We were just about 10k short of doubling our firm last year... I don't think we would have grown that much if it weren't for our online efforts.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm82312a3",
+    "_type": "testimonial",
+    "name": "Marty Martin",
+    "firm": "Marty Martin Law",
+    "quote": "Right now at this point, I'm doing better than I ever was doing.. I have 4, 5, 6 leads a day. It's just crazy.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm72ab0b9",
+    "_type": "testimonial",
+    "name": "Jeff Murphy",
+    "firm": "Jeff Murphy Law",
+    "quote": "I can't speak highly enough about what it's done for me and my practice.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firmc87dfa7",
+    "_type": "testimonial",
+    "name": "Doug Tuttle",
+    "firm": "Tuttle Larsen, P.A.",
+    "quote": "The monthly feedback is terrific, the data is amazing and there's an accountability that we never had before.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firmf862168",
+    "_type": "testimonial",
+    "name": "Joel Silverman",
+    "firm": "Silverman Law Office, PLLC",
+    "quote": "We are in the top three of any search at any given time.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm4e085ef",
+    "_type": "testimonial",
+    "name": "Ryan Quinn",
+    "firm": "Law Offices of Ryan Quinn, PLLC",
+    "quote": "The lift in rankings occurred relatively quickly... the biggest thing by far the change that was most helpful was getting my map listing.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm0aa0df7",
+    "_type": "testimonial",
+    "name": "Michael Loos",
+    "firm": "Clayborne, Loos, and Sabers LLP",
+    "quote": "My interaction with every single person on this team, without exception, has been exceeding my expectations.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "testimonial-firm3d6beaf",
+    "_type": "testimonial",
+    "name": "Shannon Hadeed",
+    "firm": "Robinson & Hadeed",
+    "quote": "We have had a massive increase in our client base and contact. I mean I had to stop taking new cases for four months.",
+    "logoUrl": "",
+    "photoUrl": ""
+  },
+  {
+    "_id": "memberVideo-wp989096",
+    "_type": "memberVideo",
+    "firmName": "Marsh, Rickard & Bryan, P.C.",
+    "practiceArea": "Practice Area: Personal Injury",
+    "quote": "\"It's almost like an extension of our firm.\"",
+    "reviewer": "- Ben Ford, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Jgm20na1sgs",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/11/Co-Op-QA-Marsh-Rickard-Bryan-P.C._feat-img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-marsh-rickard-bryan-p-c/"
+  },
+  {
+    "_id": "memberVideo-wp988898",
+    "_type": "memberVideo",
+    "firmName": "The Law Offices of Loos, Sabers & Smith, LLP",
+    "practiceArea": "Practice Area: Personal Injury",
+    "quote": "“My interaction with every single person on this team, without exception, has been exceeding my expectations.”",
+    "reviewer": "- Michael Loos, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4OSGS9wp5SI",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-QA-LOOS-SABERS-SMITH-LLP.-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-loos-sabers-smith-llp/"
+  },
+  {
+    "_id": "memberVideo-wp988896",
+    "_type": "memberVideo",
+    "firmName": "Hoegen & Associates, P.C.",
+    "practiceArea": "Practice Area: Real Estate, Business Law",
+    "quote": "“In more cases than not, we are in position #1.. We have had tremendous growth in call volume.”",
+    "reviewer": "- Frank Hoegen, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6lJKmBym0nw",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-Member-QA-Hoegen-Associates-P.C.-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-member-qa-hoegen-associates-p-c/"
+  },
+  {
+    "_id": "memberVideo-wp988894",
+    "_type": "memberVideo",
+    "firmName": "Silverman Law Office, PLLC",
+    "practiceArea": "Practice Area: Estate Planning, Tax Law",
+    "quote": "\"We are in the top three of any search at any given time.\"",
+    "reviewer": "- Joel Silverman, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RzOu8qwt54w",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-QA-Silverman-Law-Office-PLLC.-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-silverman-law-office-pllc/"
+  },
+  {
+    "_id": "memberVideo-wp988885",
+    "_type": "memberVideo",
+    "firmName": "Robinson & Hadeed Family Law",
+    "practiceArea": "Practice Area: Family Law",
+    "quote": "“We have had a massive increase in our client base and contact. I mean I had to stop taking new cases for four months.”",
+    "reviewer": "- Shannon Hadeed, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NM_PLXiAwgA",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-QA-Robinson-Hadeed-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-robinson-hadeed/"
+  },
+  {
+    "_id": "memberVideo-wp988883",
+    "_type": "memberVideo",
+    "firmName": "Tuttle Larsen Injury Attorneys",
+    "practiceArea": "Practice Area: Personal Injury",
+    "quote": "\"The monthly feedback is terrific, the data is amazing and there's an accountability that we never had before.\"",
+    "reviewer": "- Doug Tuttle, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=GWpf9T7unR4",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-QA-Tuttle-Larsen-P.A.-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-tuttle-larsen-p-a/"
+  },
+  {
+    "_id": "memberVideo-wp988875",
+    "_type": "memberVideo",
+    "firmName": "Law Offices of David A. DiBrigida",
+    "practiceArea": "Practice Area: Personal Injury",
+    "quote": "“It probably took only 2 to 3 months for me to really start seeing the results of what Matador was doing.”",
+    "reviewer": "- David Dibrigida, Esq.",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V_cpN-ri9l8",
+    "thumbnailUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Co-Op-QA-David-A.-DiBrigida-Esq.-Feat-Img.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/co-op-qa-david-a-dibrigida-esq/"
+  },
+  {
+    "_id": "caseStudy-wp989121",
+    "_type": "caseStudy",
+    "title": "Robinson & Hadeed",
+    "slug": {
+      "_type": "slug",
+      "current": "robinson-hadeed"
+    },
+    "metric": "63%",
+    "summary": "How our SEO and website development support helped Robinson & Hadeed increase their search results presence and generate leads for their family law firm.",
+    "services": [
+      "SEO",
+      "Website Development"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/12/robinson-hadeed-home-hero.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/robinson-hadeed/"
+  },
+  {
+    "_id": "caseStudy-wp988841",
+    "_type": "caseStudy",
+    "title": "Carpenter & Lewis, PLLC",
+    "slug": {
+      "_type": "slug",
+      "current": "carpenter-lewis-pllc"
+    },
+    "metric": "1,947%",
+    "summary": "Increase in Lead Calls",
+    "services": [
+      "SEO",
+      "Website Development",
+      "Local Service Ads (LSA)",
+      "Video Advertising"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Carpenter-Lewis-PLLC-feat-img.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/carpenter-lewis-pllc/"
+  },
+  {
+    "_id": "caseStudy-wp988586",
+    "_type": "caseStudy",
+    "title": "Hoegen & Associates P.C.",
+    "slug": {
+      "_type": "slug",
+      "current": "hoegen-associates-p-c"
+    },
+    "metric": "300%",
+    "summary": "Monthly New Potential Client Lead Increase",
+    "services": [
+      "SEO",
+      "Website Development"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Screenshot-2024-10-31-at-12.30.03 PM.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/hoegen-associates-p-c/"
+  },
+  {
+    "_id": "caseStudy-wp988506",
+    "_type": "caseStudy",
+    "title": "Silverman Law Office, PLLC",
+    "slug": {
+      "_type": "slug",
+      "current": "silverman-law-office-pllc"
+    },
+    "metric": "100+",
+    "summary": "Keyword Rankings In Top 10 Positions",
+    "services": [
+      "SEO",
+      "Website Development"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Screenshot-2024-10-17-at-11.21.05 AM.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/silverman-law-office-pllc/"
+  },
+  {
+    "_id": "caseStudy-wp988483",
+    "_type": "caseStudy",
+    "title": "Dr. Robin Unger",
+    "slug": {
+      "_type": "slug",
+      "current": "dr-robin-unger"
+    },
+    "metric": "100+",
+    "summary": "1st Page Ranking High-Quality Keywords",
+    "services": [
+      "SEO",
+      "Website Development"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/09/ungerhero.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/dr-robin-unger/"
+  },
+  {
+    "_id": "caseStudy-wp987678",
+    "_type": "caseStudy",
+    "title": "Eric Siegel Law",
+    "slug": {
+      "_type": "slug",
+      "current": "eric-siegel-law"
+    },
+    "metric": "285+",
+    "summary": "Monthly New Client Calls",
+    "services": [
+      "SEO",
+      "Website Development"
+    ],
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Eric-Siegel-Law-featured-image.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/eric-siegel-law/"
+  },
+  {
+    "_id": "resource-wp989121",
+    "_type": "resource",
+    "title": "Robinson & Hadeed",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/12/robinson-hadeed-home-hero.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/robinson-hadeed/"
+  },
+  {
+    "_id": "resource-wp988841",
+    "_type": "resource",
+    "title": "Carpenter & Lewis, PLLC",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2025/08/Carpenter-Lewis-PLLC-feat-img.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/carpenter-lewis-pllc/"
+  },
+  {
+    "_id": "resource-wp988586",
+    "_type": "resource",
+    "title": "Hoegen & Associates P.C.",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Screenshot-2024-10-31-at-12.30.03 PM.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/hoegen-associates-p-c/"
+  },
+  {
+    "_id": "resource-wp988506",
+    "_type": "resource",
+    "title": "Silverman Law Office, PLLC",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Screenshot-2024-10-17-at-11.21.05 AM.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/silverman-law-office-pllc/"
+  },
+  {
+    "_id": "resource-wp988483",
+    "_type": "resource",
+    "title": "Dr. Robin Unger",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/09/ungerhero.png",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/dr-robin-unger/"
+  },
+  {
+    "_id": "resource-wp987678",
+    "_type": "resource",
+    "title": "Eric Siegel Law",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Eric-Siegel-Law-featured-image.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/eric-siegel-law/"
+  },
+  {
+    "_id": "resource-wp987675",
+    "_type": "resource",
+    "title": "Leinart Law Firm",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/Leinart-Law-Firm-featured-image.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/leinart-law-firm/"
+  },
+  {
+    "_id": "resource-wp987671",
+    "_type": "resource",
+    "title": "Law Office of David A DiBrigida",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/10/David-A.-DiBrigida-Esq.-featured-image.jpg",
+    "sourceUrl": "https://www.matadorsolutions.net/case-studies/law-office-of-david-a-dibrigida/"
+  },
+  {
+    "_id": "logo-client-wp987679",
+    "_type": "logo",
+    "title": "ericsiegellaw_logo",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/ericsiegellaw_logo.png",
+    "alt": "ericsiegellaw_logo"
+  },
+  {
+    "_id": "logo-client-wp987676",
+    "_type": "logo",
+    "title": "LeinartNoTag@2x (1)",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/LeinartNoTag@2x-1.webp",
+    "alt": "LeinartNoTag@2x (1)"
+  },
+  {
+    "_id": "logo-client-wp987672",
+    "_type": "logo",
+    "title": "DD-Symbol-with-Logotype",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/DD-Symbol-with-Logotype.jpg",
+    "alt": "DD-Symbol-with-Logotype"
+  },
+  {
+    "_id": "logo-client-wp987690",
+    "_type": "logo",
+    "title": "darrell-castle-logo",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/darrell-castle-logo.png",
+    "alt": "darrell-castle-logo"
+  },
+  {
+    "_id": "logo-client-wp987695",
+    "_type": "logo",
+    "title": "Rispoli-Borneo-P.C.-logo",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Rispoli-Borneo-P.C.-logo.jpg",
+    "alt": "Rispoli-Borneo-P.C.-logo"
+  },
+  {
+    "_id": "logo-client-wp987697",
+    "_type": "logo",
+    "title": "The-Law-Offices-of-Franks-Koenig-Neuwelt-1",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/The-Law-Offices-of-Franks-Koenig-Neuwelt-1.png",
+    "alt": "The-Law-Offices-of-Franks-Koenig-Neuwelt-1"
+  },
+  {
+    "_id": "logo-client-wp987698",
+    "_type": "logo",
+    "title": "dv_logo",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/dv_logo.png",
+    "alt": "dv_logo"
+  },
+  {
+    "_id": "logo-client-wp987699",
+    "_type": "logo",
+    "title": "kgwlegal",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/kgwlegal.png",
+    "alt": "kgwlegal"
+  },
+  {
+    "_id": "logo-client-wp987700",
+    "_type": "logo",
+    "title": "Seber-logo-Update-red_s",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Seber-logo-Update-red_s.jpg",
+    "alt": "Seber-logo-Update-red_s"
+  },
+  {
+    "_id": "logo-client-wp987701",
+    "_type": "logo",
+    "title": "Logo_website",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Logo_website.jpg",
+    "alt": "Logo_website"
+  },
+  {
+    "_id": "logo-client-wp987703",
+    "_type": "logo",
+    "title": "logo-win",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/logo-win.jpg",
+    "alt": "logo-win"
+  },
+  {
+    "_id": "logo-client-wp987704",
+    "_type": "logo",
+    "title": "Dark-Logo3",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Dark-Logo3.png",
+    "alt": "Dark-Logo3"
+  },
+  {
+    "_id": "logo-client-wp987705",
+    "_type": "logo",
+    "title": "logo-header-1",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/logo-header-1.jpg",
+    "alt": "logo-header-1"
+  },
+  {
+    "_id": "logo-client-wp987706",
+    "_type": "logo",
+    "title": "clementlaw-logo",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/clementlaw-logo.jpg",
+    "alt": "clementlaw-logo"
+  },
+  {
+    "_id": "logo-client-wp987708",
+    "_type": "logo",
+    "title": "Tuttle-Larsen-hi-res",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Tuttle-Larsen-hi-res.jpg",
+    "alt": "Tuttle-Larsen-hi-res"
+  },
+  {
+    "_id": "logo-client-wp987691",
+    "_type": "logo",
+    "title": "Hickey-Turim-SC",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Hickey-Turim-SC.png",
+    "alt": "Hickey-Turim-SC"
+  },
+  {
+    "_id": "logo-client-wp987712",
+    "_type": "logo",
+    "title": "Logo-Dark",
+    "category": "client",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/Logo-Dark.png",
+    "alt": "Logo-Dark"
+  },
+  {
+    "_id": "logo-press-wp987974",
+    "_type": "logo",
+    "title": "fox_news_channel-re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/fox_news_channel-re-1.png",
+    "alt": "fox_news_channel-re"
+  },
+  {
+    "_id": "logo-press-wp987965",
+    "_type": "logo",
+    "title": "huffpost-re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/huffpost-re-1.png",
+    "alt": "huffpost-re"
+  },
+  {
+    "_id": "logo-press-wp987972",
+    "_type": "logo",
+    "title": "cnbc_re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/cnbc_re-1.png",
+    "alt": "cnbc_re"
+  },
+  {
+    "_id": "logo-press-wp987966",
+    "_type": "logo",
+    "title": "the_washington_post_logo",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/the_washington_post_logo-1.png",
+    "alt": "the_washington_post_logo"
+  },
+  {
+    "_id": "logo-press-wp987977",
+    "_type": "logo",
+    "title": "usa_today_re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/usa_today_re-1.png",
+    "alt": "usa_today_re"
+  },
+  {
+    "_id": "logo-press-wp987975",
+    "_type": "logo",
+    "title": "nbc_news",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/nbc_news-1.png",
+    "alt": "nbc_news"
+  },
+  {
+    "_id": "logo-press-wp987973",
+    "_type": "logo",
+    "title": "examiner_re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/examiner_re-1.png",
+    "alt": "examiner_re"
+  },
+  {
+    "_id": "logo-press-wp987979",
+    "_type": "logo",
+    "title": "abc_good-morning-america-re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/abc_good-morning-america-re-1.png",
+    "alt": "abc_good-morning-america-re"
+  },
+  {
+    "_id": "logo-press-wp987976",
+    "_type": "logo",
+    "title": "today_re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/today_re-1.png",
+    "alt": "today_re"
+  },
+  {
+    "_id": "logo-press-wp987970",
+    "_type": "logo",
+    "title": "abc_news_logo",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/abc_news_logo-1.png",
+    "alt": "abc_news_logo"
+  },
+  {
+    "_id": "logo-press-wp987987",
+    "_type": "logo",
+    "title": "wsj_re",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/wsj_re-4.png",
+    "alt": "wsj_re"
+  },
+  {
+    "_id": "logo-press-wp987967",
+    "_type": "logo",
+    "title": "twsj_logo",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/twsj_logo-1.png",
+    "alt": "twsj_logo"
+  },
+  {
+    "_id": "logo-press-wp987986",
+    "_type": "logo",
+    "title": "ajt_logo",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/ajt_logo-4.png",
+    "alt": "ajt_logo"
+  },
+  {
+    "_id": "logo-press-wp987968",
+    "_type": "logo",
+    "title": "baltimore_logo",
+    "category": "press",
+    "imageUrl": "https://www.matadorsolutions.net/wp-content/uploads/2024/02/baltimore_logo-1.png",
+    "alt": "baltimore_logo"
+  }
+]
